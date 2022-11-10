@@ -22,4 +22,6 @@ Always studying and growing... 🌱
   <img align="center" alt="ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="ari-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="right" alt="ari-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/121912b0cc6cf9a54016cccfe2601918.gif">
+  
 </div>
